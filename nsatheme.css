@@ -1,10 +1,12 @@
 //META{"name":"RoundedSquareAvatars","description":"Replaces all avatars with rounded squares. (5px rounding)","author":"Metalloriff","version":"1.0"}*//
 //META{"name":"BetterHomeButton","description":"Removes the background of the home button and adds a glow upon hover, and a colored glow when selected.","author":"Metalloriff","version":"1.0"}*//{}
+/* "ThemeNSA V1" by Bang */
+/* Based on "Discord Reborn v4.30" by @Omniscient & "DarkMatter" by @Hammock */
 
 /* IMPORT CSS FROM GITHUB */
 @import url(https://raw.githubusercontent.com/Metalloriff/toms-discord-stuff/master/css-snippets/BetterHomeButton.css);
 @import url(https://raw.githubusercontent.com/Metalloriff/toms-discord-stuff/master/css-snippets/RoundedSquareAvatars.theme.css);
-
+/*
 
 
 /*

@@ -15,8 +15,16 @@ Changelog: https://git.io/v6r5N
 :root {
   --main-color: #008000;
   --hover-color: #008000;
-    --background-blur: 0px;
-    --background-brightness: 150%;
+  --background-blur: 0px;
+  --background-brightness: 150%;
+  --round: 50%; /* 0% Square, 50% Circle */
+  --sglow: 5px 2px; /* Blur/Thickness Default: 5px 2px */
+  --online: #43b581;
+  --offline: #747f8d;
+  --idle: #faa61a;
+  --stream: #593695;
+  --dnd: #f04747;
+  --invis: #1a36fa;
 }
 /*
 --------------------------------------------------------------------------------------------------------------------------------------------

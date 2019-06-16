@@ -49,7 +49,7 @@ body::after,
 /*     User Profile Modal     */
 /* ========================== */
 .root-SR8cQa {
-  background-color: var(--nox-level2);
+  background-color: rgba(60, 255, 26, 1);
   background-size: 50%;
   box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2);
   border-radius: 5px;
@@ -59,7 +59,7 @@ body::after,
 .root-SR8cQa .topSectionNormal-2-vo2m,
 .root-SR8cQa .topSectionSpotify-1lI0-P,
 .root-SR8cQa .topSectionStreaming-1Tpf5X {
-  background-color: rgba(0,0,0,.5);
+  background-color: rgba(60, 255, 26, 1);
   background-image: url(https://imgur.com/wxrAb2Y) !important; /* IMPORTANT: Link must be HTTPS! */
   background-size: 50%;
   background-color: var(--nox-level2);

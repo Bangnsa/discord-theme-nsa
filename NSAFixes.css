@@ -1,12 +1,12 @@
 .accountDetails-3k9g4n::after {
-  content: "ClearVision v5.2.5";
+  content: "NSA v2.0.0";
   font-size: 10px;
   text-align: center;
   font-weight: 700;
   bottom: -1px;
   opacity: 0.3;
   position: sticky;
-  color: #fff;
+  color: #27ff00;
 }
 
 /*---------------------------User popout fixes---------------------------*/

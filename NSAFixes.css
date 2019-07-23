@@ -4,7 +4,7 @@
   text-align: center;
   font-weight: 700;
   bottom: -1px;
-  opacity: 0;
+  opacity: 0.3;
   position: sticky;
   color: #27ff00;
 }
@@ -209,7 +209,7 @@ input:focus {
 
 .layer[layer-id="server-settings"] [class*="card"]:first-child:hover [class*="checkbox"][class*="checked"] polyline,
 .ui-form-item [class*="card"]:hover [class*="checkbox"][class*="checked"] polyline {
-  opacity: 0 !important;
+  opacity: 1 !important;
 }
 
 .radio:hover .radio-inner SPAN:after,
@@ -217,11 +217,11 @@ input:focus {
 .layer[layer-id="server-settings"] [class*="card"]:first-child:hover [class*="checkbox"] polyline,
 .ui-form-item [class*="card"]:hover [class*="checkbox"] polyline {
   stroke: var(--main-color) !important;
-  opacity: .0;
+  opacity: .5;
 }
 
 .radio:not(:hover) .radio-inner.default SPAN:after {
-  opacity: .0 !important;
+  opacity: .25 !important;
 }
 
 .layer[layer-id="user-settings"] .margin-bottom-40:first-child [class*="card"]:first-child:hover [class*="checkbox"] polyline,
@@ -625,7 +625,7 @@ DIV.flex-spacer.flex-horizontal,
 }
 
 .buttonBrandInvertedDefault-uUmgsD:hover {
-  opacity: 0;
+  opacity: 0.8;
 }
 
 .buttonBrandInvertedDefault-uUmgsD {
@@ -692,7 +692,7 @@ div.footer-3mqk7D>button:nth-child(1) {
 }
 
 div.footer-3mqk7D>button:nth-child(1):hover {
-  opacity: 0;
+  opacity: 0.8;
 }
 
 .uploadModal-2ifh8j .footer-3mqk7D .button {
@@ -771,7 +771,7 @@ div.footer-3mqk7D>button:nth-child(1):hover {
 }
 
 .wrapper-O5i5-0 .instantInviteModal-3vhcvC .copy-3nFbq8:hover {
-  opacity: 0;
+  opacity: 0.8;
 }
 
 .clipboardInputInner-1EXMA3 {
@@ -826,7 +826,7 @@ div.footer-3mqk7D>button:nth-child(1):hover {
 }
 
 .wrapper-O5i5-0 .instantInviteModalAdvanced-3qJETM .form-actions .btn-default:hover {
-  opacity: 0;
+  opacity: 0.8;
 }
 
 .form-deprecated .btn-primary,
@@ -836,7 +836,7 @@ div.footer-3mqk7D>button:nth-child(1):hover {
 
 .form-deprecated .btn-primary:hover,
 .form.deprecated .btn-primary:hover {
-  opacity: 0;
+  opacity: 0.8;
   background: var(--main-color);
 }
 
@@ -1081,17 +1081,17 @@ input.quickMessage-2XpSaN.quickMessage-1yeL4E {
   height: 24px;
   left: 15px;
   margin-top: -2px;
-  opacity: .0;
+  opacity: .3;
   -webkit-transition: all .15s ease-in-out;
   transition: all .15s ease-in-out;
 }
 
 .standardSidebarView-3F1I7i .sidebarRegion-VFTUkN .sidebarRegionScroller-3MXcoP [class*="item"]:hover::after {
-  opacity: .0;
+  opacity: .7;
 }
 
 .standardSidebarView-3F1I7i .sidebarRegion-VFTUkN .sidebarRegionScroller-3MXcoP [class*="item"][class*="selected-"]::after {
-  opacity: 0;
+  opacity: 1;
 }
 
 [layer-id="user-settings"] .standardSidebarView-3F1I7i .sidebarRegion-VFTUkN .sidebarRegionScroller-3MXcoP .sidebar-CFHs9e>*>[class*="item"]:nth-child(2)::after {
@@ -1753,7 +1753,7 @@ input:focus {
   text-transform: uppercase;
   margin: 10px 0px;
   border-radius: 3px;
-  opacity: 0;
+  opacity: 1;
   padding: 5px 15px;
   width: 100%;
   text-align: center;
@@ -1927,7 +1927,7 @@ input:focus {
 
 .distributionApplicationsSort-2_uq5y,
 .selectedSort-2JSohJ {
-  opacity: 0;
+  opacity: 1;
 }
 
 .distributionApplicationsSort-2_uq5y:hover {
@@ -2304,7 +2304,7 @@ input:focus {
 [class*="theme-"] .searchHeader-1l-wpR .tab-2Ixsn0:hover {
   color: var(--hover-color);
   border-color: var(--hover-color);
-  opacity: 0;
+  opacity: 1;
 }
 
 [class*="theme-"] .searchResult-3pzFAB.expanded-v2Szsz {
@@ -2365,7 +2365,7 @@ input:focus {
 
 .searchBar-2_Yu-C.searchBarLight-1NxoDG input::-webkit-input-placeholder {
   color: white !important;
-  opacity: .0
+  opacity: .6
 }
 
 .searchBar-2_Yu-C.searchBarLight-1NxoDG input {
@@ -2429,7 +2429,7 @@ input:focus {
 .container-2Thooq .avatarSmall-3ACRaI.popout-open {
   width: 50px;
   height: 50px;
-  opacity: 0;
+  opacity: 1;
 }
 
 .bd-minimal .container-2Thooq .avatarSmall-3ACRaI:hover,
@@ -2462,16 +2462,16 @@ input:focus {
   height: 18px;
   margin-right: 3px;
   color: rgba(255, 255, 255, 0.3);
-  opacity: 0;
+  opacity: 1;
   transition: all .15s ease-in-out
 }
 
 .content-3at_AU .icon-1_QxNX>path {
-  opacity: .0
+  opacity: .7
 }
 
 .content-3at_AU .icon-1_QxNX>path:last-of-type {
-  opacity: 0
+  opacity: 1
 }
 
 .containerDefault-1ZnADq .wrapper-1ucjTd:hover .content-3at_AU .icon-1_QxNX {
@@ -2480,7 +2480,7 @@ input:focus {
 
 .wrapper-1ucjTd.modeUnread-1zpFdA .content-3at_AU .icon-1_QxNX {
   color: #fff;
-  opacity: 0
+  opacity: 1
 }
 
 .wrapper-1ucjTd.modeUnread-1zpFdA:hover .content-3at_AU .icon-1_QxNX {

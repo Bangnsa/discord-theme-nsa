@@ -2304,7 +2304,7 @@ input:focus {
 [class*="theme-"] .searchHeader-1l-wpR .tab-2Ixsn0:hover {
   color: var(--hover-color);
   border-color: var(--hover-color);
-  opacity: 1;
+  opacity: 0;
 }
 
 [class*="theme-"] .searchResult-3pzFAB.expanded-v2Szsz {
